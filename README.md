@@ -7,4 +7,4 @@ var a = 0;
 
 링크는 아래와 같이...
 
-[다음](www.daum.net)
+{다음}(www.daum.net)
